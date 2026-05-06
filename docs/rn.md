@@ -6,7 +6,7 @@ Não é permitida a alocação de duas sessões simultâneas na mesma sala de um
 ### RN02 - Intervalo Operacional: 
 Entre o término de uma sessão e o início da próxima na mesma sala, deve haver um intervalo obrigatório (20 minutos) para limpeza e circulação.
 
-### R03 - Limite de Capacidade:
+### RN03 - Limite de Capacidade:
 O registro de público de uma sessão não pode exceder a capacidade máxima da sala/unidade onde ela ocorre.
 
 ### RN04 - Integridade da Programação:
